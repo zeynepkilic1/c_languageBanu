@@ -1,4 +1,6 @@
-// Assignment: "Imagine you are given an array in which you are supposed to declare two integer variables and <br> one float variable in C and initialize them to 101, 151, and 150.6. The values are then displayed on the screen with conditions by using constants."
+// Assignment: "Imagine you are given an array in which you are supposed to declare two integer variables and 
+// one float variable in C and initialize them to 101, 151, and 150.6. 
+// The values are then displayed on the screen with conditions by using constants."
 
 #include "stdio.h"
 
