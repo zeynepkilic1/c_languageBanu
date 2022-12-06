@@ -11,6 +11,5 @@ int main() { // this is the main function that will be called when the program i
     printf("The third element is %d and the fourth element is %d \n", numbers[1][0], numbers[1][1]); //prints the second row
     
     return 0;
+
 }
-
-
